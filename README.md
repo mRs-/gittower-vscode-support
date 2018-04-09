@@ -7,8 +7,8 @@ You would like to support Visual Studio Code for diffing and mergin your files? 
 
 ## Installation
 ```bash
-mkdir -p ~/Library/Application Support/com.fournova.Tower2/CompareTools/
-cp Compare\ Tools/* ~/Library/Application Support/com.fournova.Tower2/CompareTools/
+mkdir -p ~/Library/Application\ Support/com.fournova.Tower2/CompareTools/
+cp CompareTools/* ~/Library/Application\ Support/com.fournova.Tower2/CompareTools/
 ```
 ## Configurate Git Tower
 1. Settings
